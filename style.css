@@ -56,8 +56,14 @@ p{
 	text-align: left;
 	margin-left: 100px;
 	margin-right: 100px;
+	font-weight: bold;
+	color: rgb(210, 77, 255);
 }
 
+
+.para{
+	color: rgb(255, 128, 128);
+}
 
 h1{
 	font-family:Kaushan Script;
@@ -69,6 +75,8 @@ h1{
 
 
 h4{
+	font-size: 20px;
+	font-weight: bold;
 	margin-left: 100px;
 	margin-right: 100px;
 
@@ -123,6 +131,7 @@ table{
 
 
 caption{
+	font-size: 20px;
 	font-weight: bold;
 }
 
@@ -136,4 +145,8 @@ footer{
 
 footer p{
 	text-align: center;
+}
+
+.copyright{
+	color: rgb(255, 255, 255)
 }
